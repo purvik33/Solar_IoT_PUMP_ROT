@@ -1,1 +1,1 @@
-https://inverter.rotosol.solar/api/v1/webhook/app4062264601546/IoTData/raw?split=01234
+https://webhook.site/b5963068-46fc-4aaa-930c-674095f7313b
