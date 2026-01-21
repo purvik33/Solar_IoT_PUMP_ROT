@@ -1,1 +1,3 @@
 https://ftp.server.com
+USER:ADMIN
+PASS:ADMIN1234
