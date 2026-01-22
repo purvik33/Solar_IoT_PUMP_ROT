@@ -1,4 +1,4 @@
-https://ftp.server.com
+URL:https://ftp.server.com
 USER:ADMIN
 PASS:ADMIN1234
 PORT:1883
