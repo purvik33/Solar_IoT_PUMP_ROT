@@ -1,2 +1,2 @@
 URL:https://io.adafruit.com
-PORT:8888
+PORT:1883
