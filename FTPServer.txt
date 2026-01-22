@@ -1,3 +1,4 @@
 https://ftp.server.com
 USER:ADMIN
 PASS:ADMIN1234
+PORT:1883
