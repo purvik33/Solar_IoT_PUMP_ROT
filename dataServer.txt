@@ -1,4 +1,4 @@
 URL:io.adafruit.com
 PORT:1883
 USER:JET_IoT
-PASS:aio_lgiM91Q3OZMlMjMb6VRJ324oDgC7
+PASS:aio_tifd50TRx0NssMZQE8R4VOAwnOf8
