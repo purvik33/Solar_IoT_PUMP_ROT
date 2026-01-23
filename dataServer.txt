@@ -1,4 +1,4 @@
-URL:io.adafruit.com
+URL:test.mosquitto.org
 PORT:1883
 USER:JET_IoT
 PASS:aio_TfgS54AoYvHg3yTjWhROyUPV8NQ1
