@@ -1,1 +1,1 @@
-URL:https://api.mindragreen.com/api/v1/webhook/app4062264601546/IoTData/raw?split=01234
+URL:https://webhook.site/bca59363-4752-421d-a7e0-cb97520a21f2
